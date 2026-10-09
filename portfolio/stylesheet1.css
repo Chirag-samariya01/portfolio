@@ -56,6 +56,10 @@ firstsection{
        font-size: 29px;
        cursor: pointer;
 }
+.btn1{
+       color: white;
+       text-decoration: none;
+}
 .button{
        padding: 13px 11px;
 }
